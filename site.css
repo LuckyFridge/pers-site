@@ -1,0 +1,26 @@
+.nav.justify-content-center li a {
+  color: black;
+  letter-spacing: 2px;
+}
+
+.nav.justify-content-center li a:hover {
+  text-decoration: overline;
+}
+
+#active {
+  text-decoration: overline;
+}
+
+.start {
+  font-family: 'Bangers';
+}
+
+.border-6 {
+  border-width: 6px !important;
+  padding-left: 10px;
+  height: auto;
+}
+
+.post-start {
+	font-family: "Courier New", Monospace, serif;
+}
